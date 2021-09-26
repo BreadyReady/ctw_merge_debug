@@ -1,0 +1,26 @@
+state={
+	id=95
+	name="STATE_95"
+	
+	history={
+		owner = ORE
+		add_core_of = ORE
+		buildings = {
+			arms_factory = 0
+			industrial_complex = 0
+			
+			infrastructure = 6
+			air_base = 0
+			anti_air_building = 0
+			radar_station = 0	
+		}
+
+	}
+	
+	provinces={
+		1628 8950 8961 8985 
+	}
+	manpower=10000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

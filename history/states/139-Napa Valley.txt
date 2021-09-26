@@ -1,0 +1,26 @@
+state={
+	id=139
+	name="STATE_139"
+	
+	history={
+		owner = CAL
+		add_core_of = CAL
+		buildings = {
+			arms_factory = 0
+			industrial_complex = 0
+			
+			infrastructure = 6
+			air_base = 0
+			anti_air_building = 0
+			radar_station = 0	
+		}
+
+	}
+	
+	provinces={
+		5126 5353 6116 6627 6820 6976 7016 9553 9568 9587 9592 
+	}
+	manpower=100000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

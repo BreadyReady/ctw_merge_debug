@@ -1,0 +1,28 @@
+state={
+	id=344
+	name="STATE_344"
+	history {
+		owner = MEW
+		add_core_of = MEW	
+		buildings = {
+			arms_factory = 1
+			industrial_complex = 1
+			
+			
+			infrastructure = 6
+			air_base = 0
+			anti_air_building = 0
+			radar_station = 0
+		}
+	}
+	
+	provinces={
+		39 251 993 1274 2479 3323 5581 7949 7964 7984 8067 
+	}
+	resources={
+		steel=21
+	}
+	manpower=6000
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

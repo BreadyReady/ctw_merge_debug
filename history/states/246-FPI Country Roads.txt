@@ -1,0 +1,27 @@
+
+state={
+	id=246
+	name="STATE_246"
+
+	history={
+		owner = EPI
+		add_core_of = EPI
+		buildings = {
+			arms_factory = 0
+			industrial_complex = 0
+			infrastructure = 6
+			air_base = 0
+			anti_air_building = 0
+			radar_station = 0
+
+		}
+		victory_points = { 2083 5 } #Command
+	}
+
+	provinces={
+		2083 4987 
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}
